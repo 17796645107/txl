@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习文件/JavaEE/后端/WEB项目/完整项目/2018.1.20_MLS项目/MLS/WebRoot/WEB-INF/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习文件/JavaEE/后端/WEB项目/完整项目/2018.1.20_MLS项目/MLS/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.30.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习文件/JavaEE/后端/WEB项目/完整项目/15计应一班1510208016邓宁宁/MLS/WebRoot/WEB-INF/lib/jackson-annotations-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习文件/JavaEE/后端/WEB项目/完整项目/15计应一班1510208016邓宁宁/MLS/WebRoot/WEB-INF/lib/jackson-core-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习文件/JavaEE/后端/WEB项目/完整项目/15计应一班1510208016邓宁宁/MLS/WebRoot/WEB-INF/lib/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习文件/JavaEE/后端/WEB项目/完整项目/15计应一班1510208016邓宁宁/MLS/WebRoot/WEB-INF/lib/jackson-databind-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习文件/JavaEE/后端/WEB项目/完整项目/15计应一班1510208016邓宁宁/MLS/WebRoot/WEB-INF/lib/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习文件/JavaEE/后端/WEB项目/完整项目/15计应一班1510208016邓宁宁/MLS/WebRoot/WEB-INF/lib/jackson-module-jaxb-annotations-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习文件/JavaEE/后端/WEB项目/完整项目/2018.1.20_MLS项目/MLS/WebRoot/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习文件/JavaEE/后端/WEB项目/完整项目/2018.1.20_MLS项目/MLS/WebRoot/WEB-INF/lib/commons-io-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习文件/JavaEE/后端/WEB项目/完整项目/15计应一班1510208016邓宁宁/MLS/WebRoot/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习文件/JavaEE/后端/WEB项目/完整项目/15计应一班1510208016邓宁宁/MLS/WebRoot/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
+	<classpathentry kind="output" path="out/production/txl"/>
+</classpath>
